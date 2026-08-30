@@ -4,5 +4,15 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "editor.formatOnSave": true,
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "editor.quickSuggestions": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.suggest.showWords": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.quickSuggestions": false,
+        "editor.inlineSuggest.enabled": false,
+        "editor.suggestOnTriggerCharacters": false
+    }
 }
