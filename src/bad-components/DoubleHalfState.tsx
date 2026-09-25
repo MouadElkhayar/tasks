@@ -1,3 +1,3 @@
-import { useState } from "react";
+export {};
 
-export const [dhValue, setDhValue] = useState<number>(10);
+//export const [dhValue, setDhValue] = useState<number>(10);
